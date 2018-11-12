@@ -3,6 +3,7 @@ package com.enzorazuri.j23guiappframework.gui;
 public class Coche {
 
 	private String nModelo;
+	public String Cambios;
 	private String nMarca;
 	private float consumo;
 	private float emisiones;
